@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-github-dashboard-react-app/static/css/main.e99da6e0.chunk.css",
-    "main.js": "/my-github-dashboard-react-app/static/js/main.033789a1.chunk.js",
-    "main.js.map": "/my-github-dashboard-react-app/static/js/main.033789a1.chunk.js.map",
-    "runtime-main.js": "/my-github-dashboard-react-app/static/js/runtime-main.03dea1a4.js",
-    "runtime-main.js.map": "/my-github-dashboard-react-app/static/js/runtime-main.03dea1a4.js.map",
-    "static/js/2.637bce1a.chunk.js": "/my-github-dashboard-react-app/static/js/2.637bce1a.chunk.js",
-    "static/js/2.637bce1a.chunk.js.map": "/my-github-dashboard-react-app/static/js/2.637bce1a.chunk.js.map",
-    "index.html": "/my-github-dashboard-react-app/index.html",
-    "precache-manifest.43c1d483e6e8342d6abdc9bd27db2e6a.js": "/my-github-dashboard-react-app/precache-manifest.43c1d483e6e8342d6abdc9bd27db2e6a.js",
-    "service-worker.js": "/my-github-dashboard-react-app/service-worker.js",
-    "static/css/main.e99da6e0.chunk.css.map": "/my-github-dashboard-react-app/static/css/main.e99da6e0.chunk.css.map",
-    "static/js/2.637bce1a.chunk.js.LICENSE.txt": "/my-github-dashboard-react-app/static/js/2.637bce1a.chunk.js.LICENSE.txt",
-    "static/media/Rolling-1.5s-264px.gif": "/my-github-dashboard-react-app/static/media/Rolling-1.5s-264px.5de5d82a.gif"
+    "main.css": "/github-dashboard-react-app/static/css/main.e99da6e0.chunk.css",
+    "main.js": "/github-dashboard-react-app/static/js/main.8df821c5.chunk.js",
+    "main.js.map": "/github-dashboard-react-app/static/js/main.8df821c5.chunk.js.map",
+    "runtime-main.js": "/github-dashboard-react-app/static/js/runtime-main.a49ada01.js",
+    "runtime-main.js.map": "/github-dashboard-react-app/static/js/runtime-main.a49ada01.js.map",
+    "static/js/2.637bce1a.chunk.js": "/github-dashboard-react-app/static/js/2.637bce1a.chunk.js",
+    "static/js/2.637bce1a.chunk.js.map": "/github-dashboard-react-app/static/js/2.637bce1a.chunk.js.map",
+    "index.html": "/github-dashboard-react-app/index.html",
+    "precache-manifest.ed2809343061b9226e6163a6536b6dce.js": "/github-dashboard-react-app/precache-manifest.ed2809343061b9226e6163a6536b6dce.js",
+    "service-worker.js": "/github-dashboard-react-app/service-worker.js",
+    "static/css/main.e99da6e0.chunk.css.map": "/github-dashboard-react-app/static/css/main.e99da6e0.chunk.css.map",
+    "static/js/2.637bce1a.chunk.js.LICENSE.txt": "/github-dashboard-react-app/static/js/2.637bce1a.chunk.js.LICENSE.txt",
+    "static/media/Rolling-1.5s-264px.gif": "/github-dashboard-react-app/static/media/Rolling-1.5s-264px.5de5d82a.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.03dea1a4.js",
+    "static/js/runtime-main.a49ada01.js",
     "static/js/2.637bce1a.chunk.js",
     "static/css/main.e99da6e0.chunk.css",
-    "static/js/main.033789a1.chunk.js"
+    "static/js/main.8df821c5.chunk.js"
   ]
 }
